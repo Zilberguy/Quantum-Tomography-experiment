@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Quantum State Tomography and Quantum Non-Locality: code
+  used to perform analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ori
+    family-names: Zilberman
+    email: orizilberman@mail.tau.ac.il
+    affiliation: >-
+      Raymond and Beverly Sackler Faculty of Exact Sciences,
+      School of Physics, Tel Aviv University}
+  - affiliation: >-
+      Raymond and Beverly Sackler Faculty of Exact Sciences,
+      School of Physics, Tel Aviv University}
+    email: gomehemanuel@mail.tau.ac.il
+    given-names: Gomeh
+    family-names: Emanuel
+repository-code: >-
+  https://github.com/Zilberguy/Quantum-Tomography-experiment.git
+abstract: >-
+  This repository contains all code files used to perform
+  the analysis described in the paper. In particular, it
+  includes the code used for image processing and for
+  conducting the numerical simulations.
