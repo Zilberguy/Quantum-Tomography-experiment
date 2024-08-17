@@ -1,5 +1,5 @@
 # Quantum-Tomography-experiment
-This github repository contains codes ussed for the analysis of the measurements, and proccessed results from the experiment. 
+This github repository contains codes used for the analysis of the measurements, and proccessed results from the experiment. 
 The videos that were taken during the experiment are not here because they are too large for a git repository.   
 
 This repository contains:
